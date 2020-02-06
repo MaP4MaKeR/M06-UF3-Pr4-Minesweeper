@@ -64,7 +64,7 @@
             Otherwise, you can specify specific domains:
         
     -->
-    <icon src="icon.png"/>
+    <icon src="logo.png"/>
 
     <access origin="*"/>
 </widget>
